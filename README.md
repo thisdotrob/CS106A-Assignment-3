@@ -1,5 +1,8 @@
 Breakout game (CS106A Assignment 3)
 ===
+
+![assignment 3 img](http://i.imgur.com/m0A5N05.png)
+
 Background
 ---
 This repo forms part of my solutions to the assignments and challenges given to students on Stanford's CS106A Programming Methodology class. I am not a Stanford student but was able to follow the course online using the publicly available resources (see below). For anyone looking to start programming I would thoroughly recommend it as a first step.
